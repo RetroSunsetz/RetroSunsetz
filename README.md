@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RetroSunsetz
 - 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning penetration testing
+- 🌱 I’m currently learning Active directory
 - 📫 How to reach me on telegram : RetroSunsetz
 
 <!---
