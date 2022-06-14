@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @RetroSunsetz
-- 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning Active directory
-- 📫 How to reach me on telegram : RetroSunsetz
+- Hi, I’m @RetroSunsetz, member of BL4CKW0LF.
+- I’m interested in CyberSecurity.
+- I’m currently learning Active directory.
+- How to reach me on telegram : RetroSunsetz
 
 <!---
 RetroSunsetz/RetroSunsetz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
