@@ -1,6 +1,5 @@
-- Hi, I’m @RetroSunsetz, member of BL4CKW0LF.
+- Hi, I’m @RetroSunsetz
 - I’m interested in CyberSecurity.
-- I’m currently learning Active directory.
 - How to reach me on telegram : RetroSunsetz
 
 <!---
